@@ -1,16 +1,38 @@
-# isthisgame
+# IS_THIS_GAME
 
-A new Flutter project.
+This project is a game where players guess the names of countries' flags to earn points.
 
-## Getting Started
+## Screen Shots
+![Screenshot](https://github.com/user-attachments/assets/0169068c-7dab-42a3-98ff-a4acb3c72736)
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+✅ Displaying flags of countries
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+✅ Guessing the names of the flags
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✅ Earning points for correct guesses
+
+✅ Viewing high scores
+
+## ❓Usage
+
+✅ Making a Guess:
+
+Click the "Start" button to begin the game and guess the country name for the displayed flag.
+
+✅ Viewing Scores:
+
+You earn points for each correct guess, and your total score is displayed at the top of the screen.
+
+✅ Restarting the Game:
+
+Click the "Restart" button at the end of the game to start again.
+
+## Contributors
+
+We welcome your contributions! Please send a pull request or open an issue.
+
+## Contact
+
+For questions or suggestions, you can send an email to serhat655_655@hotmail.com.
