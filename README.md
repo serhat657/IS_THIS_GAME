@@ -3,7 +3,6 @@
 This project is a game where players guess the names of countries' flags to earn points.
 
 ## Screen Shots
-![Screenshot](https://github.com/user-attachments/assets/0169068c-7dab-42a3-98ff-a4acb3c72736)
 
 ## Features
 
