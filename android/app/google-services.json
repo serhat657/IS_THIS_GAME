@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "10495736036",
+    "project_id": "isthisgame-35d74",
+    "storage_bucket": "isthisgame-35d74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10495736036:android:39f12984f3332c7f3e14f1",
+        "android_client_info": {
+          "package_name": "com.example.isthisgame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmlv-S23njgZ8BqoVWBw2oo5VeuZxAwbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10495736036:android:6d27370ff065ba633e14f1",
+        "android_client_info": {
+          "package_name": "com.isthisgame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmlv-S23njgZ8BqoVWBw2oo5VeuZxAwbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
