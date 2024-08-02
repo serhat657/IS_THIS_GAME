@@ -1,4 +1,4 @@
-# IS_THIS_GAME
+# IS_THIS_GAME 🌎
 
 This project is a game where players guess the names of countries' flags to earn points.
 
